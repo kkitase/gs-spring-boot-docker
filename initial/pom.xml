@@ -76,7 +76,7 @@
             <version>1.0.0</version>
             <configuration>
                 <to>
-                <image>gcr.io/kimi-default-20190629/my-java-image</image>
+                <image>gcr.io/<projectid>/my-java-image</image>
                 </to>
             </configuration>
             </plugin>
